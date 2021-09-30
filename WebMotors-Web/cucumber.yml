@@ -1,0 +1,3 @@
+  pretty:                --format pretty
+  ci:                    --format progress
+  json:                  --format json --out=report/report.json
