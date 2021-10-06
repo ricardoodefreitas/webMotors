@@ -1,0 +1,5 @@
+url:
+  url_make:     'https://desafioonline.webmotors.com.br/api/OnlineChallenge/Make'
+  url_model:    'https://desafioonline.webmotors.com.br/api/OnlineChallenge/Model?MakeID=id_model'
+  url_version:  'https://desafioonline.webmotors.com.br/api/OnlineChallenge/Version?ModelID=id_version'
+  url_vehicle:  'https://desafioonline.webmotors.com.br/api/OnlineChallenge/Vehicles?Page=id_page'
